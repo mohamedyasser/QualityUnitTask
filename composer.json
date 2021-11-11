@@ -1,0 +1,17 @@
+{
+    "name": "mohamedyasser/quality_unit_task",
+    "description": "QualityUnitTask",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mohamedyasser\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed Yasser",
+            "email": "yasoesr@gmail.com"
+        }
+    ],
+    "require": {}
+}
